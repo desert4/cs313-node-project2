@@ -1,0 +1,19 @@
+{
+  "name": "cs313-node-project2",
+  "version": "1.0.0",
+  "description": "this is my github repository for the second half of the semester",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desert4/cs313-node-project2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desert4/cs313-node-project2/issues"
+  },
+  "homepage": "https://github.com/desert4/cs313-node-project2#readme"
+}
