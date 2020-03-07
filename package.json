@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/desert4/cs313-node-project2/issues"
   },
-  "homepage": "https://github.com/desert4/cs313-node-project2#readme"
+  "homepage": "https://github.com/desert4/cs313-node-project2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
